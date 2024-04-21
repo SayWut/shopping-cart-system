@@ -84,4 +84,4 @@ This project implements a shopping cart system using Node.js, MySQL, Express, an
 
 ## Database Schema
 
-![Database diagram](https://github.com/SayWut/shopping-cart-system/images/dbdiagram.png)
+![Database diagram](https://github.com/SayWut/shopping-cart-system/blob/main/images/dbdiagram.png?raw=true)
