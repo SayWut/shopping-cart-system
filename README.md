@@ -81,3 +81,7 @@ This project implements a shopping cart system using Node.js, MySQL, Express, an
       ```
 
    This will start the Node.js server, listening on port 3000.
+
+## Database Schema
+
+![Database diagram](https://github.com/SayWut/shopping-cart-system/images/dbdiagram.png)
