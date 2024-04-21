@@ -1,0 +1,13 @@
+# Project genereted
+node_modules
+build
+prisma/migrations
+prisma/dev.db
+
+# Keep environment variables out of version control
+.env
+
+# IDE and OS specific files
+.idea/
+.vscode/
+.history/
